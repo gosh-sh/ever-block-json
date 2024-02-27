@@ -15,5 +15,5 @@ serde_derive = '1.0'
 serde_json = { features = [ 'preserve_order' ], version = '1.0' }
 ton_api = { git = 'https://github.com/gosh-sh/ever-tl.git', package = 'ton_api', tag = '0.3.41_acki-nacki' }
 ton_block = { git = 'https://github.com/gosh-sh/ever-block.git', tag = '1.9.104_acki-nacki' }
-ton_types = { git = 'https://github.com/gosh-sh/ever-types.git', tag = '2.0.28' }
+ton_types = { git = 'https://github.com/gosh-sh/ever-types.git', tag = '2.0.28_acki-nacki' }
 
